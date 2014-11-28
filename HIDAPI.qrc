@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>HIDAPI/hidapi.h</file>
+        <file>HIDAPI/hid.c</file>
+    </qresource>
+</RCC>
